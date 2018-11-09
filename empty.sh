@@ -1,8 +1,6 @@
 crnt0=`pwd`
 
-cass=(ccc)
-ions=(ttt)
-num=100
+ttt
 
 for cas in ${cass[@]}
 do
